@@ -1,0 +1,8 @@
+1- Read in three numbers (num1, num2, num3).
+2- Compare num1 and num2:
+a. If num1 is greater than num2, swap the values of num1 and num2.
+Compare num2 and num3:
+b. If num2 is greater than num3, swap the values of num2 and num3.
+3- Repeat step 2 to ensure num1 is the smallest of the three numbers.
+4- Compare num1 and num2 again to ensure num2 is the second smallest number.
+4- Print out the sorted order of the three numbers as num1, num2, num3.

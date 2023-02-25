@@ -1,0 +1,15 @@
+calculate the sum of squares of given input of numbers pseudo code:
+
+
+Step 1: Start
+Step 2: Read number n (Here n is the number of numbers)
+Step 3: Declare Sum to 0 and count to 1 
+Step 4: Repeat steps 5 to 7 until count<=n
+Step 5: Read number num
+Step 6: update sum as Sum = Sum + (num x num)
+Step 7: increment count by 1
+Step 8: Print Sum
+Output: Sum
+
+
+
